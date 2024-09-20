@@ -1,0 +1,8 @@
+SQL Injection Detection and Exploitation Tool:
+Overview:
+1. Target: Web Application
+2. Tools Used: SQL 
+3. Objective: Detect SQL Injection
+
+The goal of this project is to develop a tool that can detect and exploit 
+SQL injection vulnerabilities in web applications.
